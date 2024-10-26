@@ -104,4 +104,4 @@ This project is licensed under the MIT License.
 ## Contact  
 For any queries or collaboration, feel free to reach out:  
 **Email**: anurag2005om@example.com  
-**GitHub**: [https://github.com/yourusername](https://github.com/IAnuragMahapatra)  
+**GitHub**: [Anurag Mahapatra](https://github.com/IAnuragMahapatra)  
