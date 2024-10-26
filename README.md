@@ -96,11 +96,6 @@ HycreD is a responsive and dynamic financial platform designed to empower univer
 
 ---
 
-## License  
-This project is licensed under the MIT License.  
-
----
-
 ## Contact  
 For any queries or collaboration, feel free to reach out:  
 **Email**: anurag2005om@example.com  
