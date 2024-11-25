@@ -91,3 +91,5 @@ HycreD is a responsive and dynamic financial platform designed to empower univer
 For any queries or collaboration, feel free to reach out:  
 **Email**: anurag2005om@example.com  
 **GitHub**: [Anurag Mahapatra](https://github.com/IAnuragMahapatra)  
+**Email**: patradebadutta25@gmail.com  
+**GitHub**: [Debadutta patra](https://github.com/debadutta1209)  
